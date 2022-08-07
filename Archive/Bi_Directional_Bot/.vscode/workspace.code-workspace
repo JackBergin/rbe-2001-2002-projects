@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Desktop/Github_Work/2002_LabTeam_11/Final Project/Communication Code/Merged Code/Camera_Data_Wifi_Transmission"
+		},
+		{
+			"name": "ESP32_To_Romi_Master",
+			"path": "../../../../../Desktop/Github_Work/2002_LabTeam_11/Final Project/Communication Code/Merged Code/ESP32_To_Romi_Master"
+		},
+		{
+			"name": "Romi Code",
+			"path": "../../../../../Desktop/Github_Work/2002_LabTeam_11/Final Project/Romi Code"
+		},
+		{
+			"name": "Bi_Directional_Communication_Test_1",
+			"path": "../../Bi_Directional_Communication_Test_1"
+		},
+		{
+			"name": "Bi_Directional_Bot",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}

@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../Camera_Client"
+		},
+		{
+			"name": "Robot_Server",
+			"path": "../../Robot_Server"
+		},
+		{
+			"name": "Vision Unit",
+			"path": "../../../../../Desktop/Github_Work/2002_LabTeam_11/Final Project/Vision Unit"
+		},
+		{
+			"name": "Camera_Data_Wifi_Transmission",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
