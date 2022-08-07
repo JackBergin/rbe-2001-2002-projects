@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../../Lab_1_RBE2002"
+		},
+		{
+			"name": "Line Follower",
+			"path": "../../Line Follower"
+		},
+		{
+			"name": "Chassis_Class",
+			"path": "../../Chassis_Class"
+		},
+		{
+			"name": "Lab_3_Code",
+			"path": "../../Lab_3_Code"
+		},
+		{
+			"name": "sharp_ir",
+			"path": ".."
+		},
+		{
+			"name": "RBE_2002-Team_10-main",
+			"path": "../../../../../Desktop/RBE_2002-Team_10-main"
+		}
+	],
+	"settings": {}
+}

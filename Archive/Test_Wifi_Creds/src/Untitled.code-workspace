@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../Homework_3"
+		},
+		{
+			"name": "Interrupt_Code",
+			"path": "../../Interrupt_Code"
+		},
+		{
+			"name": "Lab_3_Code",
+			"path": "../../Lab_3_Code"
+		},
+		{
+			"name": "Test",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
