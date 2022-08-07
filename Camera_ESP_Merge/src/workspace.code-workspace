@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../Camera_Data_Wifi_Transmission"
+		},
+		{
+			"name": "Camera_ESP_Merge",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
